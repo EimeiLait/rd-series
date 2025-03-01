@@ -1,6 +1,6 @@
 ﻿# RD forms/业余无线电用RD单据
 
-##List of fonns/Liste des formules/单据表
+## List of forms/Liste des formules/单据表
 <table>
   
 <tr>
@@ -13,9 +13,9 @@
 </tr>
 
 <tr><td>RD 1</td>
-<td>2025</td><td>1</td></tr>
+<td>2025</td><td>通联凭证/收听确认/面见记录</td></tr>
 <tr><td>RD 2</td><td>2025</td>
-<td>2</td>
+<td>申请书</td>
 </tr>
 </table>
 
@@ -23,4 +23,4 @@
 
 ### English
 
-## Francais
+### Francais
