@@ -17,11 +17,14 @@
 <tr><td>RD 2</td><td>2025</td>
 <td>申请书</td>
 </tr>
+<tr><td>RD 6</td><td>2025</td>
+<td>通联清单</td>
+</tr>
 </table>
 
 ### 中文
 
-## 许可协议
+#### 许可协议
 本项目采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议。
 
 您可以在非商业目的下共享、演绎、署名以及基于本项目进行修改，但必须遵守以下条件：
