@@ -14,12 +14,19 @@
 
 <tr><td>RD 1</td>
 <td>2025</td><td>通联凭证/收听确认/面见记录</td></tr>
+<tr><td></td>
+<td></td><td>Confirmation de contact / d'écoute / de rencontre</td></tr>
 <tr><td>RD 2</td><td>2025</td>
 <td>申请书</td>
+</tr>
+<tr><td>RD 3</td><td>2025</td>
+<td>处理记录单</td>
 </tr>
 <tr><td>RD 6</td><td>2025</td>
 <td>通联清单</td>
 </tr>
+<tr><td></td>
+<td></td><td>LISTE SPÉCIALE Enregistrements de Contacts Radio</td></tr>
 </table>
 
 ### 中文
