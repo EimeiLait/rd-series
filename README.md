@@ -27,6 +27,12 @@
 </tr>
 <tr><td></td>
 <td></td><td>LISTE SPÉCIALE Enregistrements de Contacts Radio</td></tr>
+<tr><td>RD 10</td><td>2025</td>
+<td>声明书</td>
+</tr>
+<tr><td></td><td></td>
+<td>DÉCLARATION concernant la communication, le RD 1 et le courrier</td>
+</tr>
 </table>
 
 ### 中文
