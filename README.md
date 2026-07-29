@@ -27,6 +27,11 @@
 </tr>
 <tr><td></td>
 <td></td><td>LISTE SPÉCIALE Enregistrements de Contacts Radio</td></tr>
+<tr><td>RD 7</td><td>2026</td>
+<td>台网通联清单</td>
+</tr>
+<tr><td></td>
+<td></td><td>LISTE SPÉCIALE Enregistrements de contacts radio – Réseaux et Stations</td></tr>
 <tr><td>RD 10</td><td>2025</td>
 <td>声明书</td>
 </tr>
